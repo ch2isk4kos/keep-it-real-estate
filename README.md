@@ -4,5 +4,4 @@ Keep It Real Estate Group Website
 This is an example site for the Intro to Web Development Course at The Flatiron School.
 
 # Contact
-email: # keep-it-real-estate
-# keep-it-real-estate
+email: 
